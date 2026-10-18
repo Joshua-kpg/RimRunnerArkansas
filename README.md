@@ -1,9 +1,8 @@
 # RimRunnerArkansas
 
 Unofficial Arkansas HS boys basketball ratings. Not affiliated with the AAA (Arkansas Activities Association) or MaxPreps.
-Status: **HELD - waiting for hosting.** Planned home: https://rimrunnerarkansas.web.app/ (Firebase Hosting). The Firebase project could not be
-created yet (Google project quota on the hosting account) and Cloudflare Pages is at its project limit. Working preview: this repo's GitHub Pages copy.
-Until the site's Firebase project exists, accounts, picks and follows save only in the visitor's browser.
+Status: **Live** at https://rimrunnerarkansas.web.app/ (Firebase Hosting, since 2026-10-18). Accounts, picks and follows sync through the
+site's own Firebase project (rimrunnerarkansas). This repo's GitHub Pages copy is only a backup.
 
 ## Files
 - `index.html` — the whole app (data embedded). `logos/` — small WebP school logos (from MaxPreps school profiles), served with the site.
@@ -19,4 +18,5 @@ Finals before Mon Nov 9, 2026 that involve a football school (team flag `footbal
 From then on it reads boys basketball finals for the last 3 days from the MaxPreps Arkansas scores-by-date page
 (team-page fallback), matches them to the schedule by MaxPreps team id + date, records them in `data/results.json` and
 bakes scores and W-L records into `index.html`. The page recomputes Elo from those finals. It commits only when data
-changed, then deploys (index.html + logos/) to Cloudflare Pages if the `CLOUDFLARE_API_TOKEN` repository secret is set.
+changed. The live Firebase site is then published from the bot's computer (boxtools/cf_sync.sh in the build folder); Arkansas has no
+Cloudflare Pages project, so the workflow's Cloudflare steps are skipped.

@@ -81,7 +81,7 @@ jobs:
       - name: Skip Cloudflare deploy (no API token secret)
         if: (steps.update.outputs.changed == 'true' || inputs.force_deploy) && env.CF_TOKEN_PRESENT != 'true'
         run: |
-          echo "::warning title=Cloudflare deploy skipped::Repository secret CLOUDFLARE_API_TOKEN is not set, so the Cloudflare Pages deploy was skipped. GitHub Pages still updates from the commit. Add the secret (Account > Cloudflare Pages > Edit) to enable it."
+          echo "Cloudflare deploy skipped (expected): Arkansas is hosted on Firebase (rimrunnerarkansas.web.app), published from the bot computer by boxtools/cf_sync.sh after this commit. GitHub Pages backup updates from the commit."
 
       - name: Deploy to Cloudflare Pages
         if: (steps.update.outputs.changed == 'true' || inputs.force_deploy) && env.CF_TOKEN_PRESENT == 'true'
