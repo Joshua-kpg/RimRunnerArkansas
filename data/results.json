@@ -1,4 +1,70 @@
 {
  "about": "RimRunnerArkansas 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
- "finals": {}
+ "finals": {
+  "2fc07f35-b2eb-4586-ab5f-67250c1be20d": {
+   "awayMp": "3d00a64a-15a5-422d-b724-912438a9682d",
+   "awayScore": 61,
+   "date": "2026-10-19",
+   "forfeit": false,
+   "gameId": "ar26-0002",
+   "homeMp": "14f8236e-d0dd-4748-9947-b0b8bce73e36",
+   "homeScore": 59,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
+  "4de6e379-f96b-40fd-b6d8-1dd169168347": {
+   "awayMp": "37f2d8fc-22ab-407d-9653-248b4b83c67a",
+   "awayScore": 56,
+   "date": "2026-10-19",
+   "forfeit": false,
+   "gameId": "ar26-0006",
+   "homeMp": "7d191530-d639-44cd-848a-a38fb16604e5",
+   "homeScore": 61,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "ddffc0a4-293e-488a-9f96-e5887172fae2": {
+   "awayMp": "81a9458a-c9fc-47cd-b96c-87dee1d9de7c",
+   "awayScore": 49,
+   "date": "2026-10-19",
+   "forfeit": false,
+   "gameId": "ar26-0003",
+   "homeMp": "d98eff62-ce2f-4e4c-9cf5-0e2d4ff2cce4",
+   "homeScore": 61,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "e8f67724-6a83-4665-b59e-cd96023a757e": {
+   "awayMp": "b11db793-2bc0-4f61-8e36-7673d7b962b1",
+   "awayScore": 25,
+   "date": "2026-10-19",
+   "forfeit": false,
+   "gameId": "ar26-0004",
+   "homeMp": "8f233c7c-699b-4719-9beb-d91f18fb5d1c",
+   "homeScore": 65,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "fcbdf0f7-c816-4a0e-aca7-14715258be59": {
+   "awayMp": "d19c6027-00ad-42f7-8dfe-8297e1ebe25d",
+   "awayScore": 36,
+   "date": "2026-10-19",
+   "forfeit": false,
+   "gameId": "ar26-0001",
+   "homeMp": "29004df6-2f67-4415-a550-fd2ed8aee9ea",
+   "homeScore": 48,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  }
+ }
 }
