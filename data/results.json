@@ -1,6 +1,21 @@
 {
  "about": "RimRunnerArkansas 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
+  "001e0442-ed3d-4798-9b58-f803816e229d": {
+   "awayMp": "79ddff7c-084a-4426-89ff-b3dbf48988db",
+   "awayScore": 65,
+   "date": "2026-11-10",
+   "forfeit": false,
+   "gameId": "ar26-x095",
+   "gameType": "non-conference",
+   "homeMp": "fec5c130-5ce5-4593-b5ce-89a009ccf25c",
+   "homeScore": 62,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "04f192bc-fa03-4d7d-a94a-d761a8d00782": {
    "awayMp": "5f1cc076-171f-4d9e-a4e0-e8a7d22e579c",
    "awayScore": 83,
@@ -664,11 +679,14 @@
    "awayScore": 25,
    "date": "2026-11-10",
    "forfeit": false,
+   "gameId": "ar26-x096",
+   "gameType": "non-conference",
    "homeMp": "2d575e3c-6c3e-46f5-b482-1d4c16a20cf9",
    "homeScore": 63,
-   "neutral": null,
+   "neutral": false,
    "source": "scores-page",
-   "state": "pending",
+   "state": "applied",
+   "verified": true,
    "winner": "home"
   },
   "2f74d525-4388-4f26-90d8-1095e69f7665": {
@@ -1724,6 +1742,18 @@
    "verified": true,
    "winner": "home"
   },
+  "81918ad4-3937-439d-849b-afadc8cead65": {
+   "awayMp": "8065cf89-353b-42aa-b1a3-413c9cd566a1",
+   "awayScore": 49,
+   "date": "2026-11-10",
+   "forfeit": false,
+   "homeMp": "33bc11a3-bfff-4a53-9852-7daa2013958b",
+   "homeScore": 64,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
+  },
   "836707cd-3deb-45ee-aaa6-54993249b813": {
    "awayMp": "b11db793-2bc0-4f61-8e36-7673d7b962b1",
    "awayScore": 15,
@@ -1963,11 +1993,14 @@
    "awayScore": 61,
    "date": "2026-11-10",
    "forfeit": false,
+   "gameId": "ar26-x097",
+   "gameType": "non-conference",
    "homeMp": "69434f24-e47d-41f5-b98f-f13613a53afa",
    "homeScore": 67,
-   "neutral": null,
+   "neutral": false,
    "source": "scores-page",
-   "state": "pending",
+   "state": "applied",
+   "verified": true,
    "winner": "home"
   },
   "9a206bb8-ed3b-4dc1-a5a7-1ffb768b1dcb": {
@@ -2359,6 +2392,21 @@
    "verified": true,
    "winner": "home"
   },
+  "b403ba0a-4f5a-48fa-8a00-d1e44d561f80": {
+   "awayMp": "0560ddaf-7869-49f5-9af2-22affce0a3d0",
+   "awayScore": 42,
+   "date": "2026-11-11",
+   "forfeit": false,
+   "gameId": "ar26-x103",
+   "gameType": "non-conference",
+   "homeMp": "7d191530-d639-44cd-848a-a38fb16604e5",
+   "homeScore": 65,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
   "b4571dd1-3d33-4cbb-af1c-b74b72c3893c": {
    "awayMp": "ec847225-de6e-44fc-a86f-db33e91118a3",
    "awayScore": 45,
@@ -2514,6 +2562,21 @@
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
+   "winner": "home"
+  },
+  "c06606fd-bd0e-44c7-bdc9-36c1d9aaf12a": {
+   "awayMp": "c2e5e70b-47b4-4046-a4fa-ea98f39c7462",
+   "awayScore": 44,
+   "date": "2026-11-10",
+   "forfeit": false,
+   "gameId": "ar26-x098",
+   "gameType": "non-conference",
+   "homeMp": "131039e2-6166-415e-8acb-bab68c3349b5",
+   "homeScore": 66,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
    "winner": "home"
   },
   "c0d662b6-9b5a-42b7-bb69-fe1dd9f03e92": {
@@ -2965,6 +3028,21 @@
    "state": "applied",
    "winner": "away"
   },
+  "ddd7fbaa-3d5a-41c9-908a-ed3f29405702": {
+   "awayMp": "c549b003-a615-4f06-b1a1-3b2d4433e12a",
+   "awayScore": 38,
+   "date": "2026-11-10",
+   "forfeit": false,
+   "gameId": "ar26-x099",
+   "gameType": "non-conference",
+   "homeMp": "ec847225-de6e-44fc-a86f-db33e91118a3",
+   "homeScore": 42,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
   "ddffc0a4-293e-488a-9f96-e5887172fae2": {
    "awayMp": "81a9458a-c9fc-47cd-b96c-87dee1d9de7c",
    "awayScore": 49,
@@ -3075,6 +3153,21 @@
    "state": "applied",
    "verified": true,
    "winner": "away"
+  },
+  "e142b6d5-4286-4c2b-b467-f0711c0885d2": {
+   "awayMp": "07493326-5073-43ea-bcbb-5824d6c3e753",
+   "awayScore": 16,
+   "date": "2026-11-11",
+   "forfeit": false,
+   "gameId": "ar26-x104",
+   "gameType": "non-conference",
+   "homeMp": "eac26e69-be33-4bb3-a4c1-199c4fccf536",
+   "homeScore": 73,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
   },
   "e21d7174-e24f-465c-b167-72279d940f24": {
    "awayMp": "b926163b-0f93-4cff-9ca5-c6f6b947f50e",
@@ -3342,11 +3435,14 @@
    "awayScore": 47,
    "date": "2026-11-10",
    "forfeit": false,
+   "gameId": "ar26-x100",
+   "gameType": "non-conference",
    "homeMp": "ffc201a8-c6ef-4ba1-8122-054b4ef65620",
    "homeScore": 58,
-   "neutral": null,
+   "neutral": false,
    "source": "scores-page",
-   "state": "pending",
+   "state": "applied",
+   "verified": true,
    "winner": "home"
   },
   "f3290a61-f6a5-4e1d-a3c3-da96126e3388": {
@@ -3405,6 +3501,21 @@
    "state": "applied",
    "winner": "home"
   },
+  "f3b22788-5d4a-4700-a9e9-5a7928002821": {
+   "awayMp": "a563a296-2e32-43cd-820f-c8e45bd72e59",
+   "awayScore": 64,
+   "date": "2026-11-10",
+   "forfeit": false,
+   "gameId": "ar26-x101",
+   "gameType": "conference",
+   "homeMp": "e6aeea34-a106-4ea9-909c-ebce86723e62",
+   "homeScore": 61,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "f4bd46af-2db5-4f2c-a159-dc95821e842e": {
    "awayMp": "5f1cc076-171f-4d9e-a4e0-e8a7d22e579c",
    "awayScore": 71,
@@ -3449,11 +3560,14 @@
    "awayScore": 20,
    "date": "2026-11-10",
    "forfeit": false,
+   "gameId": "ar26-x102",
+   "gameType": "non-conference",
    "homeMp": "297ec54a-9f37-4cba-ad06-70380afdc2eb",
    "homeScore": 72,
-   "neutral": null,
+   "neutral": false,
    "source": "scores-page",
-   "state": "pending",
+   "state": "applied",
+   "verified": true,
    "winner": "home"
   },
   "f9141ee7-b3a9-4d77-95c8-6efc4af2eecd": {
