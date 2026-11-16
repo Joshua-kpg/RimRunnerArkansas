@@ -2252,6 +2252,21 @@
    "state": "applied",
    "winner": "home"
   },
+  "73ff7f0e-5a80-4183-8a6e-81efe25474b7": {
+   "awayMp": "0fa44ee7-98fe-4755-94bb-f2e3edf3e9fe",
+   "awayScore": 34,
+   "date": "2026-11-14",
+   "forfeit": false,
+   "gameId": "ar26-x127",
+   "gameType": "tournament",
+   "homeMp": "8731bbf2-85b1-4e21-abd5-e8cde0fa0f8b",
+   "homeScore": 73,
+   "neutral": true,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
   "74c7d479-0e62-4de5-a3b1-420fd70d25a9": {
    "awayMp": "d98eff62-ce2f-4e4c-9cf5-0e2d4ff2cce4",
    "awayScore": 57,
