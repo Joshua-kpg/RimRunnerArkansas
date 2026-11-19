@@ -2297,6 +2297,18 @@
    "state": "applied",
    "winner": "home"
   },
+  "5ae1d7b3-5b31-4757-84f4-82706b72816f": {
+   "awayMp": "1a7c6bc8-3421-40da-b550-c1c6dd5fc9f7",
+   "awayScore": 72,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "homeMp": "c99ffbfe-8a5f-41b9-ae77-bbed2413122b",
+   "homeScore": 34,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
+  },
   "5b5d503f-705a-41a8-8e5f-2dbcef44ded0": {
    "awayMp": "89d16b54-9934-4010-b86e-12050e9fbcbe",
    "awayScore": 65,
@@ -5025,12 +5037,12 @@
   },
   "cc56ecdf-2374-46df-9f48-6588e8de31d0": {
    "awayMp": "dd239c13-c3d4-410a-83a0-4a2307102e8f",
-   "awayScore": 59,
+   "awayScore": 58,
    "date": "2026-11-17",
    "forfeit": false,
    "gameId": "ar26-0244",
    "homeMp": "a563a296-2e32-43cd-820f-c8e45bd72e59",
-   "homeScore": 62,
+   "homeScore": 61,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
@@ -5158,6 +5170,19 @@
    "state": "applied",
    "verified": true,
    "winner": "away"
+  },
+  "d2eddbd8-23de-4ab2-b5f5-7b58a12f2495": {
+   "awayMp": "0737cc0f-94ef-4951-84fd-771d61ca3b72",
+   "awayScore": 43,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "gameId": "ar26-0255",
+   "homeMp": "dd89a0ce-dd32-417a-976c-b19c812f64d7",
+   "homeScore": 67,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
   },
   "d3975f94-0fe2-4cda-8f45-4a72967c8f71": {
    "awayMp": "d291e5f3-657b-42fa-a71f-977516f508d7",
@@ -6293,6 +6318,21 @@
    "state": "applied",
    "verified": true,
    "winner": "away"
+  },
+  "f44791fa-8542-486a-9051-f89a65a34db4": {
+   "awayMp": "0fa44ee7-98fe-4755-94bb-f2e3edf3e9fe",
+   "awayScore": 35,
+   "date": "2026-11-18",
+   "forfeit": false,
+   "gameId": "ar26-x150",
+   "gameType": "non-conference",
+   "homeMp": "ccb48acd-7764-4a16-b40f-c310f7e682f3",
+   "homeScore": 58,
+   "neutral": true,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
   },
   "f486efe1-2851-4803-a9f8-712bafe0ced9": {
    "awayMp": "d99c7266-31c9-4524-a1f4-3730ae90719b",
