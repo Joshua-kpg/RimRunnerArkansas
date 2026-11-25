@@ -3549,6 +3549,19 @@
    "verified": true,
    "winner": "away"
   },
+  "5d857570-44e8-4045-8f9e-f952c5d5d697": {
+   "awayMp": "5db4e02f-4f1e-4230-ab57-5d925a6803e7",
+   "awayScore": 74,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "ar26-0512",
+   "homeMp": "915ea789-8a57-4e9c-93aa-9d3fd0ea4a6e",
+   "homeScore": 34,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "5d9a92e2-aa5c-4890-9c03-c0abee93849f": {
    "awayMp": "ffc201a8-c6ef-4ba1-8122-054b4ef65620",
    "awayScore": 47,
@@ -5864,6 +5877,19 @@
    "state": "applied",
    "winner": "home"
   },
+  "a35dc4c5-1e79-41db-85f8-9515495ac85a": {
+   "awayMp": "c04365de-dbf4-4da2-b2da-3d435a278ed9",
+   "awayScore": 17,
+   "date": "2026-11-25",
+   "forfeit": false,
+   "gameId": "ar26-0522",
+   "homeMp": "4658f4f6-cbea-4a6f-bb41-972bf6f1877d",
+   "homeScore": 45,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "a3ca84b7-de9d-4690-9fff-83c53f4c1d38": {
    "awayMp": "9f24d59c-82f9-45fc-847a-a270b974e635",
    "awayScore": 69,
@@ -6880,6 +6906,19 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "bedbd468-abf4-4b78-9dbd-e33c2dcafff7": {
+   "awayMp": "03d83a7c-966e-455d-a0c7-7dc7081162e5",
+   "awayScore": 77,
+   "date": "2026-11-23",
+   "forfeit": false,
+   "gameId": "ar26-0479",
+   "homeMp": "84e80319-c017-4dbc-ae6a-4769c4e330ee",
+   "homeScore": 79,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
   },
   "bf70b345-9120-4e7e-b183-050b87b7ae7c": {
    "awayMp": "f51f3733-1505-4567-83a5-44066f75f1e1",
@@ -8877,6 +8916,19 @@
    "gameId": "ar26-0505",
    "homeMp": "69434f24-e47d-41f5-b98f-f13613a53afa",
    "homeScore": 64,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "f06c6784-5ba4-4150-b3c9-5e13a57c90d5": {
+   "awayMp": "9a36e9ec-1961-4b71-b7bb-ea41e0ad7213",
+   "awayScore": 47,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "ar26-0520",
+   "homeMp": "a91fc638-8be3-47f4-b2b6-5e8d3d5d630a",
+   "homeScore": 53,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
